@@ -7,7 +7,7 @@ const page = () => {
   return (
     <>
     <Navbar></Navbar>
-{createUser()}
+{/* {createUser()} */}
     <Footer></Footer>
     
     
