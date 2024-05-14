@@ -6,9 +6,7 @@ import createUser from '@/libs/text'
 const page = () => {
   return (
     <>
-    <Navbar></Navbar>
-{/* {createUser()} */}
-    <Footer></Footer>
+    
     
     
     </>
